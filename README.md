@@ -3,7 +3,7 @@
 - 🌱 I have learnt C, Cpp, Python, SQL, ZOHO analytics, Canva, HTML, CSS
 - I am currently learning Tableu and advance Excel for Data Analysis
 - 💞️ I’m looking to collaborate on projects, hackathons, Internships
-- 📫 How to reach me my email id is shreyapramod157@gmail.com
+- 📫 How to reach me my email id is shreyapramod157@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: introvert outside extrovert inside
 
