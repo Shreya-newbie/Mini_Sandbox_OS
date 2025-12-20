@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shreya-newbie
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c 
-- 💞️ I’m looking to collaborate on projects and hackathons
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I have learnt C, Cpp, Python, SQL, ZOHO analytics, Canva, HTML, CSS
+- I am currently learning Tableu and advance Excel for Data Analysis
+- 💞️ I’m looking to collaborate on projects, hackathons, Internships
 - 📫 How to reach me my email id is shreyapramod157@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: introvert outside extrovert inside
